@@ -1,0 +1,3 @@
+[submodule "grapql-blog-example"]
+	path = grapql-blog-example
+	url = https://github.com/jay006/grapql-blog-example
